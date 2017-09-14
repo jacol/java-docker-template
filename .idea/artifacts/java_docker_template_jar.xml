@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="java-docker-template:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/java_docker_template_jar</output-path>
+    <root id="archive" name="java-docker-template.jar">
+      <element id="module-output" name="java-docker-template" />
+    </root>
+  </artifact>
+</component>
